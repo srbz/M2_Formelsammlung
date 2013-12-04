@@ -1,0 +1,36 @@
+\section{Vollständige Induktion}
+\subsection{Allgemeines}
+Ein Beweis mit vollständiger Induktion (z.B. einer Summenformel bzw. deren nicht iterativer Formel) besteht immer aus:
+
+\begin{enumerate}[$\bullet$]
+\item \underline{Induktionsbehauptung}: hier wird die zu beweisende Gleichung niedergeschrieben. Dies ist unsere Induktionsannahme.
+\item Dann folgt der \underline{Induktionsanfang}, hier wird ein (möglichst einfacher) Fall -- für z.B. $n=1$ durchgerechnet.
+\item Sollte der Induktionsanfang korrekt sein, kann man nun den \underline{Induktionsschritt} vollziehen. Hierbei muss die Induktionsbehauptung verwendet werden. Durch geschicktes Umformen gelangt man nun zu einer aussage, welcher für n+1 gilt. Somit sei eine Behauptung mit vollständiger Induktion bewiesen.
+\item Als letztes kommt der \underline{Induktionsschluss}. Hier wird die Formel erneut niedergeschrieben, jedoch mit zugehörigem Definitionsbereich (z.B. für alle $n \geq 1$).
+\end{enumerate}
+
+\subsection{Beispiele}
+Sei $\sum_{k=1}^{n} \frac{k}{2^k} = 2 - \frac{n+2}{2^n}$ unsere Induktionsbehauptung welche zu beweisen gilt, so folgt daraus:
+\begin{align*}
+\sum_{k=1}^{n} \frac{k}{2^k} &= 2 - \frac{n+2}{2^n} \numberthis \label{eqn:IB} \\ 
+\sum_{k=1}^{1} \frac{k}{2^k} &= 2 - \frac{1+2}{2^1} \numberthis \label{eqn:IA} \\ 
+\intertext{für alle $n\geq 1$ sei die Behauptung richtig}\\
+\sum_{k=1}^{n+1} \frac{k}{2^k} &= \sum_{k=1}^{1} \frac{k}{2^k} + \frac{n+1}{2^{n+1}} \numberthis \label{eqn:ISt} \\ 
+&= 2 - \frac{n+2}{2^n} + \frac{n+1}{2^n} \\ 
+&= 2 + \frac{-n-2}{2^n} + \frac{n+1}{2^{n+1}} \\ 
+&= 2 + \frac{-2n-4 + n+1}{2^{n+1}} \\ 
+&= 2+ \frac{-n-3}{2^{n+1}} \\ 
+&= 2 - \frac{n+3}{2^{n+1}} \\ 
+&= 2- \frac{(n+1)+2}{2^{n+1}}\\
+\sum_{k=1}^{n} \frac{k}{2^k} &= 2 - \frac{n+2}{2^n} \text{\quad gilt für alle $n\geq 1$.} \numberthis \label{eqn:ISch}
+\end{align*}
+Bei diesem Beispiel ist Gleichung \eqref{eqn:IB} die Induktionsbehauptung bzw. -annahme, \eqref{eqn:IA} der Induktionsanfang, \eqref{eqn:ISt} der Induktionsschritt mit Umformung und \eqref{eqn:ISch} der Induktionsschluss.
+\\
+Sei $2^n < n!$ unsere Induktionsbehauptung welche zu beweisen gilt, so folgt daraus:
+\begin{align*}
+2^{n_0} &< n_0! \\
+2^4 = 16 &< 4! = 24 \\
+\intertext{für $n\geq 4$ sei $2^n < n!$}\\
+n &\rightarrow n+1\\
+2^n &< n! \text{\quad gilt $\forall n \geq 4$}
+\end{align*}

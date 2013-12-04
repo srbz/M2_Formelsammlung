@@ -1,0 +1,71 @@
+\section{Mengenlehre}
+
+\subsection{Allgemeines}
+\begin{align*}
+M_E &= \{ a \enspace|\enspace a \text{ mit Eigenschaft } E\} &\text{Beschreibend}\\
+M_A &= \{a_1 , a_2 , a_3 , \dots , a_n\} &\text{Aufzählend, abzählbar Endlich}\\
+M &= \{a_1 , a_2 , a_3 , \dots \} &\text{abzählbar Unendlich}\\
+M_AE &= \{ 1,2,3,\dots \} = \{n \enspace|\enspace n \in \mathbb{N} \} &\text{\underline{beides}}\\
+a &\in M &\text{a Elemnt aus der Menge M}\\
+a &\notin M &\text{a \underline{nicht} Element aus M}
+\end{align*}
+
+\subsection{Teilmenge} 
+$A \subset B \to A$ Teilmenge von $B$ oder $B \supset A$. \\
+$A = B$ wenn $A \subset B$ und $B \subset A$.
+$$ x \in A \Leftrightarrow  x \in B $$
+
+\subsection{Nullmenge} 
+$M = \{ \} = \emptyset $
+
+\subsection{Potenzmenge} 
+Menge aller Teilmengen. \\
+$A = \{1,2\}$ ; $P(A) = \{ \{1\},\{2\},\{1,2\},\emptyset \}$
+
+\subsection{Anzahl der Elemente einer Menge} 
+$\#A = |A| = 2$ und $|P(A)| = 4$.
+$$|P(M)| = 2^{|M|}$$  
+
+\subsection{Komplementärmenge}
+Sei $A \subset M$, dann ist $\bar{A}$ die Komplementärmenge.\\
+$\bar{A} = \{ x \enspace | \enspace x \in M \wedge x \notin A \}$\\
+$\bar{M} = \emptyset$ und $\bar{\emptyset} = M$\\
+$A \backslash M = \bar{A}$
+
+\subsection{Vereinugungsmenge}
+$A \cup B := \{ x \enspace | \enspace x \in A \vee x \in B \}$ \\
+Man sagt auch: $A$ vereinigt $B$.
+
+\subsection{Paarmenge / Produktmenge}
+$A \times B := \{ (a,b) \enspace | \enspace a \in A, b \in B \}$\\
+$A \cap B = \{ x \enspace | \enspace x \in A \wedge x \in B \}$\\
+Man sagt auch $A$ und $B$.\\
+Ist $B \subset A$ so heißt $A \backslash B$ Komplement $\bar{B}$ oder $B^c$.
+
+\subsection{Rechenregeln}
+Seien $A,B,C$ Mengen und $M$ das Einselement:
+\begin{enumerate}[a)]
+\item $A \cup B = B \cup A$ -- Kommutativ
+\item $A \cap B = B \cap A$ -- Kommutativ
+\item $(A \cup B) \cup C = A \cup ( B \cup C)$ -- Assoziativ
+\item $(A \cap B) \cap C = A \cap ( B \cap C)$ -- Assoziativ
+\item $A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$ -- Distributiv
+\item $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$ -- Distributiv
+\item $A \cap (A \cup C) = A$ -- Verschmelzung
+\item $B \cup (B \cap C) = B$ -- Verschmelzung
+\item $A \cup \emptyset = A$ aber $A \cap \emptyset = \emptyset$
+\item $A \cap M = A$ aber $A \cup M = M$
+\item $A \cup \bar{A}$ und $A \cap \bar{A} = \emptyset$ -- Komplement-Eigenschaft
+\item $\bar{\bar{A}} = A$
+\item $\overline{A \cup B} = \bar{A} \cap \bar{B}$ -- DeMorgansche Regel
+\item $\overline{A \cap B} = \bar{A} \cup \bar{B}$ -- DeMorgansche Regel
+\end{enumerate}
+
+\subsection{Abbildungen}
+Eine Abbildung ist {\sc surjektiv}: $\forall b \in B \exists a \in A, f(a) = b$.\\
+Eine Abbildung ist {\sc injektiv}: $\forall a,a' \in A a\neq a' \Rightarrow f(a) \neq f(a')$.\\
+Eine Abbildung ist {\sc bijektiv} wenn sie surjektiv und injektiv ist.
+
+\subsection{Anzahl der Elemente einer unendlichen Menge}
+\paragraph{abzählbare Unendlichkeit} Sei $M$ eine Menge. $M$ heißt  unendlich, falls es eine echte Teilmenge $N\subset M$ gibt, die sich bijektiv auf $M$ abbilden lässt. Eine Menge heißt endlich, wenn sie nicht unendlich ist.
+\paragraph{Abzählbarkeit} Eine Menge heißt abzählbar unendlich, wenn eine Bijektion zwischen $M$ und $N$ existiert. $|\mathbb{N}| = \infty$

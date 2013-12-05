@@ -16,3 +16,7 @@
 \contentsline {section}{\numberline {2}Vollst\IeC {\"a}ndige Induktion}{5}
 \contentsline {subsection}{\numberline {2.1}Allgemeines}{5}
 \contentsline {subsection}{\numberline {2.2}Beispiele}{5}
+\contentsline {section}{\numberline {3}Gruppen, Ringe und K\IeC {\"o}rper}{7}
+\contentsline {subsection}{\numberline {3.1}Gruppe}{7}
+\contentsline {subsection}{\numberline {3.2}Ring}{7}
+\contentsline {subsection}{\numberline {3.3}K\IeC {\"o}rper}{8}

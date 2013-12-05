@@ -26,7 +26,7 @@ Eine Gruppe heißt \textit{Halbgruppe}, wenn nur die Abgeschlossenheit und die A
 \paragraph*{Beispiele:} $(\mathbb{N}_0 , +)$, $(\mathbb{N}, +)$, $(\mathbb{N}_0, \cdot )$, $(\mathbb{N}, \cdot)$
 
 \subsection{Ring}
-Ein Ring ist eine Menge $M$ von Elementen zusammen mit zwei Verknüpfungen $\circ$ und $\square$, für die gelten:
+Ein Ring ist eine Menge $M$ von ELementen zusammen mit zwei Verknüpfungen $\circ$ und $\square$, für die gelten:
 
 \begin{enumerate}[$\bullet$]
 \item $(M, \circ)$ ist eine \textit{kommutative} Guppe
@@ -47,13 +47,5 @@ Ein Körper ist eine Menge $M$ von Elementen zusammen mit zwei Verknüpfungen $c
 \begin{enumerate}[$\bullet$]
 \item $(M, \circ)$ ist eine kommutative Gruppe
 \item $(M\setminus e_0 , \square)$ ist eine Gruppe ($e_0$ ist das \textit{neutrale Element} bzgl. $\circ$).
-\item Distributivgesetze: 
-    \begin{enumerate}[$ $]
-    \item $a \circ ( b \square c) = (a \circ b) \square (a \circ c)$
-    \item $(a \circ  b) \square c) = (a \square c) \circ (b \circ c)$
-    \end{enumerate}
+\item
 \end{enumerate}
-
-In einem kommutativen Körper gilt außerdem das Kommutativgesetz: $a \circ b = b \circ a$
-
-\paragraph*{Beispiele: } $(\mathbb{Q}, + , \circ)$, $(\mathbb{R}, + , \circ)$, $(\mathbb{C}, + , \circ)$

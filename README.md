@@ -8,7 +8,7 @@ ToDos
 ---------------------
 - [x] Mengenlehre
 - [x] Vollständige Induktion
-- [ ] Gruppen, Ringe
+- [x] Gruppen, Ringe
 - [ ] Komplexe Zahlen
 - [ ] Abbildungen, Funktionen
 - [ ] Gebrochenrationale Funktionen

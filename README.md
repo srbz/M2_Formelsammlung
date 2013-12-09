@@ -9,7 +9,7 @@ ToDos
 - [x] Mengenlehre
 - [x] Vollständige Induktion
 - [x] Gruppen, Ringe
-- [ ] Komplexe Zahlen
+- [x] Komplexe Zahlen
 - [ ] Abbildungen, Funktionen
 - [ ] Gebrochenrationale Funktionen
 - [ ] Exponential- und Logarithmusfunktion

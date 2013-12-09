@@ -20,3 +20,11 @@
 \contentsline {subsection}{\numberline {3.1}Gruppe}{7}
 \contentsline {subsection}{\numberline {3.2}Ring}{7}
 \contentsline {subsection}{\numberline {3.3}K\IeC {\"o}rper}{8}
+\contentsline {section}{\numberline {4}Komplexe Zahlen -- $\mathbb {C}$}{9}
+\contentsline {subsection}{\numberline {4.1}Potenzen von $z$}{9}
+\contentsline {subsection}{\numberline {4.2}Arithmetische Form}{9}
+\contentsline {subsubsection}{\numberline {4.2.1}Gleichheit \IeC {\"u}ber Komponenten}{9}
+\contentsline {subsection}{\numberline {4.3}Multiplikation und Division}{9}
+\contentsline {subsection}{\numberline {4.4}Formeln und S\IeC {\"a}tze f\IeC {\"u}r komplexe Zahlen}{10}
+\contentsline {subsection}{\numberline {4.5}Polarebenen Darstellung / Trigonometrische Darstellung}{10}
+\contentsline {subsubsection}{\numberline {4.5.1}Satz von Moivre}{11}

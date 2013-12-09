@@ -1,5 +1,5 @@
 \section{Komplexe Zahlen -- $\mathbb{C}$}
-Im folgenden werden beide Konventionen $i$ und $j$ für die imaginäre Einheit $\sqrt{-1}$ genutzt. Des weiteren werden hier nicht alle Operationen auf und mit komplexen Zahlen beschrieben.
+Im folgenden werden beide Konventionen $i$ und $j$ für die imaginäre Einheit $\sqrt{-1}$ genutzt.
 \subsection{Potenzen von $z$}
 Jede Potenz von einer komplexen Zahl $z$ (z.B. $j^{99}$) lässt sich runter brechen auf eine Potenz zwischen $1$ und $4$.
 $$ j^{4n+1} = j \quad j^{4n+2} = -1 \quad j^{4n+3} = -j \quad j^{4n} = 1 \qquad \forall n \in \mathbb{N}$$
@@ -48,4 +48,4 @@ $$z^n = ({r e^{i \varphi}})^n = r^n e^{i \varphi n}$$
 \subsubsection{Satz von Moivre}
 Der Satz von Moivre besagt, dass $\left( \cos x + i\,\sin x \right)^n = \cos\left( n\,x\right) + i\,\sin\left(n\,x\right) $ gilt.\\
 Dies folgt aus $e^{i\,x} = \cos x + i\,\sin x $ und $\left(e^{i\,x} \right)^n = e^{i\,n\,x} $.\\
-Dieser kann über die Additionstheoreme über die vollständige Induktion gezeigt werden.
+Dieser kann 

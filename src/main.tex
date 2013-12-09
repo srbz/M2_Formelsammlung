@@ -3,6 +3,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
+\usepackage{mathtools}
 \usepackage{amssymb}
 \usepackage[utf8x]{inputenc}
 \usepackage{enumerate}
@@ -12,6 +13,10 @@
 \author{Sallar Ahmadi-Pour}
 \date{WiSe 2013/14}
 \newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
+
+
+\DeclarePairedDelimiter\abs{\lvert}{\rvert}
+\DeclarePairedDelimiter\norm{\lVert}{\rVert}
 
 \begin{document}
 \maketitle
@@ -23,4 +28,5 @@
 \include{abbildungen_funktionen}
 \include{gebrochen}
 %\include{•}
+
 \end{document}

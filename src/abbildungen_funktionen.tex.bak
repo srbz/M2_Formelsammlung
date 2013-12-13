@@ -76,10 +76,7 @@ q &= x_1 \cdot x_2
 \paragraph{Das Horner-Schema} erlaubt es in wenigen Rechenschritten Nullstellen als auch Funktionswerte zu berechnen. Diese Methode erweist sich als einfach für Computerprogramme zu implementieren. Außerdem erlaubt es die Berechnung von Funktionswerten ohne Taschenrechner\footnote{ Als Beispiel:
 $11 + 7x - 5x^2 -4x^3 + 2x^4 \;=\; 11 + x \cdot\left(7 + x \cdot(-5 + x \cdot(-4 + x \cdot 2))\right)$}\\
 Beispiel: $f(x) = 5x^6 - 2x^5 + 2x^3 + x^2 - 6x +1$. Zur Berechnung vom Funktionswert $f(2)$ sieht das Horner-Schema wie folgt aus:\\
-
-\begin{figure}[!ht]
+\begin{figure}
 \caption{Horner-Schema für $f(x)$}
-\centering
-\includegraphics[scale=0.55]{img/img1}
+\includegraphics[scale=0.7]{img/img1}
 \end{figure}
-

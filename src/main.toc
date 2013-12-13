@@ -1,30 +1,42 @@
 \select@language {german}
-\contentsline {section}{\numberline {1}Mengenlehre}{2}
-\contentsline {subsection}{\numberline {1.1}Allgemeines}{2}
-\contentsline {subsection}{\numberline {1.2}Teilmenge}{2}
-\contentsline {subsection}{\numberline {1.3}Nullmenge}{2}
-\contentsline {subsection}{\numberline {1.4}Potenzmenge}{2}
-\contentsline {subsection}{\numberline {1.5}Anzahl der Elemente einer Menge}{2}
-\contentsline {subsection}{\numberline {1.6}Komplement\IeC {\"a}rmenge}{2}
-\contentsline {subsection}{\numberline {1.7}Vereinugungsmenge}{2}
-\contentsline {subsection}{\numberline {1.8}Paarmenge / Produktmenge}{3}
-\contentsline {subsection}{\numberline {1.9}Rechenregeln}{3}
-\contentsline {subsection}{\numberline {1.10}Abbildungen}{3}
-\contentsline {subsection}{\numberline {1.11}Anzahl der Elemente einer unendlichen Menge}{3}
-\contentsline {paragraph}{abz\IeC {\"a}hlbare Unendlichkeit}{3}
-\contentsline {paragraph}{Abz\IeC {\"a}hlbarkeit}{4}
-\contentsline {section}{\numberline {2}Vollst\IeC {\"a}ndige Induktion}{5}
-\contentsline {subsection}{\numberline {2.1}Allgemeines}{5}
-\contentsline {subsection}{\numberline {2.2}Beispiele}{5}
-\contentsline {section}{\numberline {3}Gruppen, Ringe und K\IeC {\"o}rper}{7}
-\contentsline {subsection}{\numberline {3.1}Gruppe}{7}
-\contentsline {subsection}{\numberline {3.2}Ring}{7}
-\contentsline {subsection}{\numberline {3.3}K\IeC {\"o}rper}{8}
-\contentsline {section}{\numberline {4}Komplexe Zahlen -- $\mathbb {C}$}{9}
-\contentsline {subsection}{\numberline {4.1}Potenzen von $z$}{9}
-\contentsline {subsection}{\numberline {4.2}Arithmetische Form}{9}
-\contentsline {subsubsection}{\numberline {4.2.1}Gleichheit \IeC {\"u}ber Komponenten}{9}
-\contentsline {subsection}{\numberline {4.3}Multiplikation und Division}{9}
-\contentsline {subsection}{\numberline {4.4}Formeln und S\IeC {\"a}tze f\IeC {\"u}r komplexe Zahlen}{10}
-\contentsline {subsection}{\numberline {4.5}Polarebenen Darstellung / Trigonometrische Darstellung}{10}
-\contentsline {subsubsection}{\numberline {4.5.1}Satz von Moivre}{11}
+\contentsline {section}{\numberline {1}Mengenlehre}{3}
+\contentsline {subsection}{\numberline {1.1}Allgemeines}{3}
+\contentsline {subsection}{\numberline {1.2}Teilmenge}{3}
+\contentsline {subsection}{\numberline {1.3}Nullmenge}{3}
+\contentsline {subsection}{\numberline {1.4}Potenzmenge}{3}
+\contentsline {subsection}{\numberline {1.5}Anzahl der Elemente einer Menge}{3}
+\contentsline {subsection}{\numberline {1.6}Komplement\IeC {\"a}rmenge}{3}
+\contentsline {subsection}{\numberline {1.7}Vereinugungsmenge}{3}
+\contentsline {subsection}{\numberline {1.8}Paarmenge / Produktmenge}{4}
+\contentsline {subsection}{\numberline {1.9}Rechenregeln}{4}
+\contentsline {subsection}{\numberline {1.10}Abbildungen}{4}
+\contentsline {subsection}{\numberline {1.11}Anzahl der Elemente einer unendlichen Menge}{4}
+\contentsline {paragraph}{abz\IeC {\"a}hlbare Unendlichkeit}{4}
+\contentsline {paragraph}{Abz\IeC {\"a}hlbarkeit}{5}
+\contentsline {section}{\numberline {2}Vollst\IeC {\"a}ndige Induktion}{6}
+\contentsline {subsection}{\numberline {2.1}Allgemeines}{6}
+\contentsline {subsection}{\numberline {2.2}Beispiele}{6}
+\contentsline {section}{\numberline {3}Gruppen, Ringe und K\IeC {\"o}rper}{8}
+\contentsline {subsection}{\numberline {3.1}Gruppe}{8}
+\contentsline {subsection}{\numberline {3.2}Ring}{8}
+\contentsline {subsection}{\numberline {3.3}K\IeC {\"o}rper}{9}
+\contentsline {section}{\numberline {4}Komplexe Zahlen -- $\mathbb {C}$}{10}
+\contentsline {subsection}{\numberline {4.1}Potenzen von $z$}{10}
+\contentsline {subsection}{\numberline {4.2}Arithmetische Form}{10}
+\contentsline {subsubsection}{\numberline {4.2.1}Gleichheit \IeC {\"u}ber Komponenten}{10}
+\contentsline {subsection}{\numberline {4.3}Multiplikation und Division}{10}
+\contentsline {subsection}{\numberline {4.4}Formeln und S\IeC {\"a}tze f\IeC {\"u}r komplexe Zahlen}{11}
+\contentsline {subsection}{\numberline {4.5}Polarebenen Darstellung / Trigonometrische Darstellung}{11}
+\contentsline {subsubsection}{\numberline {4.5.1}Satz von Moivre}{12}
+\contentsline {section}{\numberline {5}Abbildungen und Funktionen}{13}
+\contentsline {subsection}{\numberline {5.1}Grundbegriffe}{13}
+\contentsline {subsection}{\numberline {5.2}Gerade und ungerade Funktion}{13}
+\contentsline {subsection}{\numberline {5.3}Periodische Funktionen}{13}
+\contentsline {subsubsection}{\numberline {5.3.1}Beschr\IeC {\"a}nktheit}{13}
+\contentsline {subsubsection}{\numberline {5.3.2}Monotonieverhalten}{13}
+\contentsline {subsection}{\numberline {5.4}Elementare Funktionen}{14}
+\contentsline {subsubsection}{\numberline {5.4.1}Polynome}{14}
+\contentsline {subsubsection}{\numberline {5.4.2}Lineare Funktion}{14}
+\contentsline {subsubsection}{\numberline {5.4.3}Quadratische Funktion}{14}
+\contentsline {paragraph}{Wurzelsatz von Vi\"{e}ta}{15}
+\contentsline {paragraph}{Das Horner-Schema}{15}

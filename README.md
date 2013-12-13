@@ -11,8 +11,8 @@ ToDos
 - [x] Vollständige Induktion
 - [x] Gruppen, Ringe
 - [x] Komplexe Zahlen
-- [ ] Abbildungen, Funktionen
+- [x] Abbildungen, Funktionen
 - [ ] Gebrochenrationale Funktionen
 - [ ] Exponential- und Logarithmusfunktion
 - [ ] Trigonometrische Funktionen
-
+- [ ] Folgen, Grenzwerte, Reihen

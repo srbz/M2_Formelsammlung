@@ -28,6 +28,6 @@
 \include{komplexe}
 \include{abbildungen_funktionen}
 \include{gebrochen}
-%\include{•}
-
+\include{exp_log}
+\include{trig_fkt}
 \end{document}

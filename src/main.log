@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.28)  13 DEC 2013 22:03
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.28)  13 DEC 2013 22:12
 entering extended mode
 **main.tex
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\main.tex
@@ -252,7 +252,11 @@ ing.aux")
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\abbildun
 gen_funktionen.aux")
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\gebroche
-n.aux"))
+n.aux")
+("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\exp_log.
+aux")
+("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\trig_fkt
+.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
@@ -267,7 +271,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
  (C:\Users\Sallar\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
-) (C:\Users\Sallar\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+)
+(C:\Users\Sallar\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count109
 \scratchdimen=\dimen132
@@ -413,6 +418,10 @@ Package pdftex.def Info: img/img1.png used on input line 83.
 /img1.png>]
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\gebroche
 n.tex")
+("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\exp_log.
+tex")
+("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\trig_fkt
+.tex")
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\main.aux
 "
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\mengenle
@@ -426,44 +435,48 @@ ing.aux")
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\abbildun
 gen_funktionen.aux")
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\gebroche
-n.aux")) ) 
+n.aux")
+("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\exp_log.
+aux")
+("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\trig_fkt
+.aux")) ) 
 Here is how much of TeX's memory you used:
- 4517 strings out of 494045
- 62973 string characters out of 3145966
- 133076 words of memory out of 3000000
- 7687 multiletter control sequences out of 15000+200000
+ 4533 strings out of 494045
+ 63975 string characters out of 3145966
+ 133590 words of memory out of 3000000
+ 7689 multiletter control sequences out of 15000+200000
  23685 words of font info for 70 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  29i,14n,24p,518b,603s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
-c\dpi600\ecrm0900.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecrm0600.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\font
-s\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Sallar\AppData\Local\MiKT
-eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\Sallar\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\Sal
-lar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C
-:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm
-1095.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\
-dpi600\ecbx1095.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
-knappen\ec\dpi600\ecbx1440.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\
-pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Sallar\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/sy
-mbols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
-/symbols/msbm10.pfb>
-Output written on main.pdf (15 pages, 294891 bytes).
+ <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
+\dpi600\ecrm0900.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+jknappen\ec\dpi600\ecrm0600.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Sallar\AppData\Local\MiKTe
+X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\Sallar\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\Sall
+ar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:
+\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1
+095.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
+pi600\ecbx1095.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
+nappen\ec\dpi600\ecbx1440.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/sym
+bols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+symbols/msbm10.pfb>
+Output written on main.pdf (15 pages, 294894 bytes).
 PDF statistics:
  461 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

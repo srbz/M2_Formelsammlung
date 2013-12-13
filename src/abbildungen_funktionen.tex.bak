@@ -45,7 +45,7 @@ $$\sum_{k=0}^n a_k x^k \cdot \sum_{k=0}^n b_k x^k = \sum_{k=0}^n a_k x^k \cdot \
 Die Hauptform der linearen Funktion lautet $f(x) = a_0 + a_1 x$. $a_0$ und $a_1$ können mit zwei Wertepaaren von $f(x)$ bestimmt werden:
 \begin{align*}
 a_1 &= \frac{y_2 - y_1}{x_2 - x_1}\\
-a_0 = y_1 - \frac{y_2 - y_1}{x_2 - x_1}x_1 = \frac{y_1 x_2 - y_2 x_1}{x_2 - x_1}
+a_0 &= y_1 - \frac{y_2 - y_1}{x_2 - x_1}x_1 = \frac{y_1 x_2 - y_2 x_1}{x_2 - x_1}
 \end{align*}
 Die Zweipunktform der linearen Funktion lautet $\frac{y - y_1}{x - x_1} = \frac{y_2 - y_1}{x_2 - x_1}$.\\
 Die Achsenabschnittsform lautet $\frac{x}{a} + \frac{y}{b} = 1$. Mit $f(0) = b$ und $f(a)=0$.
@@ -76,7 +76,10 @@ q &= x_1 \cdot x_2
 \paragraph{Das Horner-Schema} erlaubt es in wenigen Rechenschritten Nullstellen als auch Funktionswerte zu berechnen. Diese Methode erweist sich als einfach für Computerprogramme zu implementieren. Außerdem erlaubt es die Berechnung von Funktionswerten ohne Taschenrechner\footnote{ Als Beispiel:
 $11 + 7x - 5x^2 -4x^3 + 2x^4 \;=\; 11 + x \cdot\left(7 + x \cdot(-5 + x \cdot(-4 + x \cdot 2))\right)$}\\
 Beispiel: $f(x) = 5x^6 - 2x^5 + 2x^3 + x^2 - 6x +1$. Zur Berechnung vom Funktionswert $f(2)$ sieht das Horner-Schema wie folgt aus:\\
-\begin{figure}
+
+\begin{figure}[!ht]
 \caption{Horner-Schema für $f(x)$}
-\includegraphics[scale=0.7]{img/img1}
+\centering
+\includegraphics[scale=0.55]{img/img1}
 \end{figure}
+

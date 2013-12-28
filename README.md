@@ -12,7 +12,7 @@ ToDos
 - [x] Gruppen, Ringe
 - [x] Komplexe Zahlen
 - [x] Abbildungen, Funktionen
-- [ ] Gebrochenrationale Funktionen
-- [ ] Exponential- und Logarithmusfunktion
-- [ ] Trigonometrische Funktionen
+- [x] Gebrochenrationale Funktionen
+- [x] Exponential- und Logarithmusfunktion
+- [x] Trigonometrische Funktionen
 - [ ] Folgen, Grenzwerte, Reihen

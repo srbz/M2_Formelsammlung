@@ -1,6 +1,6 @@
 \subsection{Gebrochen-rationale Funktionen}
 Jede gebrochen-rationale Funktion hat die Form
-$$f(x) = \frac{p(x)}{q(x)}$$
+$$f(x) = \frac{p(x)}{q(x)}$$.
 $p(x)$ und $q(x)$ sind Polynome. Der Grad von $p(x)$ sei $n$ und der Grad von $q(x)$ sei $m$. Die Funktion ist \underline{echt gebrochen}, wenn $n < m$. Die Funktion ist \underline{unecht gebrochen}, wenn $n \geq m$.
 \subsubsection{Partialbruchzerlegung}
 Aus Wikipedia:
@@ -17,7 +17,7 @@ Um die Partialbruchzerlegung vorzunehmen, muss man lediglich einige Schritte mac
     \item $x_1$ (einfache Nullstelle) $\rightarrow \frac{A_1}{x-x_1}$
     \item $x_1$ (zweifache Nullstelle) $\rightarrow \frac{A_1}{x-x_1} + \frac{A_2}{(x-x_1)^2}$
     \item ...
-    \item $x_1$ (zweifache Nullstelle) $\rightarrow \frac{A_1}{x-x_1} + \frac{A_2}{(x-x_1)^2} + \cdots + \frac{A_n}{(x-x_1)^n}$
+    \item \item $x_1$ (zweifache Nullstelle) $\rightarrow \frac{A_1}{x-x_1} + \frac{A_2}{(x-x_1)^2} + \cdots + \frac{A_n}{(x-x_1)^n}$
     \end{enumerate}
 \item Kommen darüber hinaus nicht-reelle Nullstellen des Nenners vor, z.B. $(x^2 + 1)$ , so gehören dazu Partialbrüche mit dem Zähler $Ax+B$.
 \item Die echt gebrochene rationale Funktion ist Summe der Partialbrüche. Die Konstanten $A_1$,$A_2$, etc. ermittelt man z.B. durch Koeffizientenvergleich oder Einsetzen von Werten.
@@ -42,12 +42,4 @@ $x = 2 \quad \Rightarrow \quad 3 = C$\\
 $x = 0 \quad \Rightarrow \quad 1 = 4A + 2B - C = 4\cdot 2 + 2B - 3 \quad \Rightarrow \quad B= 2$\\
 \end{enumerate}
 Damit folgt als Ergebnis:
-$$ y = \frac{x+1}{x^3 - 5x^2 + 8x - 4} = \frac{2}{x-1} + \frac{-2}{x-2} + \frac{3}{(x-2)^2}$$
-\subsubsection{Asymptoten}
-Für Asymptoten betrachtet man die höchsten Potenzen der beiden Polynome einer gebrochen-rationalen Funktion (am Beispiel):
-\begin{align*}
-\frac{a_n}{b_m} x^{n-m} &= \frac{1}{1}x^{1-3}\\
-\lim_{|x|\rightarrow \infty} \frac{a_n}{b_m} x^{n-m} &= \lim_{|x|\rightarrow \infty} \frac{1}{1}x^{1-3} \\
-&= \lim_{|x|\rightarrow \infty} \frac{1}{x^2} = 0
-\end{align*}
-Asymtote liegt also bei $y=0$
+$$ y = \frac{x+1}{x^3 - 5x^2 + 8x - 4} = \frac{A}{x-1} + \frac{B}{x-2} + \frac{C}{(x-2)^2}

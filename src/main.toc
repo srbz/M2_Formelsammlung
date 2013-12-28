@@ -39,4 +39,13 @@
 \contentsline {subsubsection}{\numberline {5.4.2}Lineare Funktion}{14}
 \contentsline {subsubsection}{\numberline {5.4.3}Quadratische Funktion}{14}
 \contentsline {paragraph}{Wurzelsatz von Vi\"{e}ta}{15}
-\contentsline {paragraph}{Das Horner-Schema}{15}
+\contentsline {subsubsection}{\numberline {5.4.4}Das Horner-Schema}{15}
+\contentsline {subsection}{\numberline {5.5}Gebrochen-rationale Funktionen}{16}
+\contentsline {subsubsection}{\numberline {5.5.1}Partialbruchzerlegung}{16}
+\contentsline {subsubsection}{\numberline {5.5.2}Asymptoten}{17}
+\contentsline {subsection}{\numberline {5.6}Exponential- und Logartihmusfunktion}{18}
+\contentsline {section}{\numberline {6}Trigonometrische Funktionen}{19}
+\contentsline {subsection}{\numberline {6.1}Sinus und Kosinus}{19}
+\contentsline {subsection}{\numberline {6.2}Tangens und Kotangens}{20}
+\contentsline {subsection}{\numberline {6.3}Umkehrfunktionen der trigonometrischen Funktionen}{20}
+\contentsline {subsection}{\numberline {6.4}Hyperbolische Funktionen}{20}

@@ -1,5 +1,5 @@
-\section{Trigonometrische Funktionen}
-\subsection{Sinus und Kosinus}
+\subsection{Trigonometrische Funktionen}
+\subsubsection{Sinus und Kosinus}
 Die Sinus- und Kosinusfunktion besitzen viele Eigenschaften im Zusammenhang mit komplexen Zahlen. Außerdem besitzen diese Funktionen weitere Eigenschaften:
 \begin{enumerate}[1)]
 \item $\sin^2{x} + \cos^2{x} = 1$
@@ -26,7 +26,7 @@ Für die Umformung der Funktionen in der letzteren genannten Form sind folgende 
 \item $\sin{x}\sin{y} = \frac{1}{2}(\cos{(x-y)} - \cos{(x+y)})$
 \item $\sin{x}\cos{y} = \frac{1}{2}(\sin{(x-y)} + \sin{(x+y)})$
 \end{enumerate}
-\subsection{Tangens und Kotangens}
+\subsubsection{Tangens und Kotangens}
 Die Definition der beiden Funktionen lautet
 \begin{align*}
 \tan{x} &{:=} \frac{\sin{x}}{\cos{x}} &\text{falls } x \neq \frac{\pi}{2}+k\pi , \quad k \in \mathbb{Z}\\
@@ -44,14 +44,6 @@ Auch bei diesen beiden Funktionen gibt es Eigenschaften:
 \item $\tan{-x} = - \tan{x}$ \\  $\cot{-x} = -\cot{x}$
 \item $\tan{(x+y)} = \frac{\tan{x} + \tan{y}}{1- \tan{x}\tan{y}} \qquad \cot{(x+y)} = \frac{\cot{x}\cot{y}-1}{\cot{x} + \cot{y}}$
 \end{enumerate}
-\subsection{Umkehrfunktionen der trigonometrischen Funktionen}
+\subsubsection{Umkehrfunktionen der trigonometrischen Funktionen}
 Da die trigonometrischen Funktionen nicht bijektiv sind, existieren die Umkehrfunktionen nicht global. Man muss sich also auf Intervalle beschränken, auf denen die Funktionen strengt monoton sind. Dabei gibt es 'übliche Intervalle', welche in Fachliteratur zu finden sind.
-\subsection{Hyperbolische Funktionen}
-Die Definition der Funktionen lauten:
-\begin{align*}
-\sinh{x} &:= \frac{1}{2} ( e^x - e^{-x} )  \\
-\cosh{x} &:= \frac{1}{2} ( e^x + e^{-x} ) \\
-\tanh{x} &:= \frac{\sinh{x}}{\cosh{x}}  \\
-\tanh{x} &:= \frac{\cosh{x}}{\sinh{x}},\quad x \neq 0 \\
-\end{align*}
-Auch bei den hyperbolischen Funktionen gibt es eine Mehrzahl von Eigenschaften, welche in jeder Fachliteratur gibt, aber hier des Anspruches wegen nicht aufgeführt werden. Gleiches gilt für die Umkehrfunktionen der hyperbolischen Funktionen.
+\section{Hyperbolische Funktionen}

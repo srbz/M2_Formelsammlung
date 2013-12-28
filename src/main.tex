@@ -1,4 +1,4 @@
-\documentclass[11pt,oneside,a4paper]{article}
+\documentclass[11pt,oneside,a4paper, german]{article}
 \usepackage[german]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
@@ -19,8 +19,12 @@
 \DeclarePairedDelimiter\abs{\lvert}{\rvert}
 \DeclarePairedDelimiter\norm{\lVert}{\rVert}
 
+\addto\captionsgerman{\renewcommand*{\abstractname}{Vorwort}}
 \begin{document}
 \maketitle
+\begin{abstract}
+Diese Formelsammlung ist im Zuge der Veranstaltung 'Mathematik 2 - Analysis' des WiSe 2013/14 im Studiengang technische Informatik BSc. entstanden. Ich gewährleiste kein Vollständigkeit, Richtigkeit oder ähnliches. Jeder kann diese Formelsammlung nutzen. Ich stelle sie der Öffentlichkeit zur Verfügung und hoffe diese damit teilen zu können.
+\end{abstract}
 \tableofcontents
 \include{mengenlehre}
 \include{induktion}

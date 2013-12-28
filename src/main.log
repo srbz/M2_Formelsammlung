@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.28)  13 DEC 2013 22:12
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.28)  28 DEC 2013 19:02
 entering extended mode
 **main.tex
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\main.tex
@@ -257,18 +257,18 @@ n.aux")
 aux")
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\trig_fkt
 .aux"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
  (C:\Users\Sallar\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -320,14 +320,17 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+LaTeX Font Info:    Try loading font information for U+msa on input line 24.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+LaTeX Font Info:    Try loading font information for U+msb on input line 24.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+(C:\Users\Sallar\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\data\uni-0.def
+File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
 )
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\main.toc
 " [1
@@ -337,11 +340,7 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 [2]
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\mengenle
-hre.tex"
-(C:\Users\Sallar\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\data\uni-0.def
-File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
-)
-[3
+hre.tex" [3
 
 ]) [4] [5]
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\induktio
@@ -405,23 +404,61 @@ gen_funktionen.tex" [13
 
 
 ] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
 
  []
 
-<img/img1.png, id=66, 722.7pt x 187.45032pt>
+<img/img1.png, id=68, 722.7pt x 187.45032pt>
 File: img/img1.png Graphic file (type png)
  <use img/img1.png>
-Package pdftex.def Info: img/img1.png used on input line 83.
+Package pdftex.def Info: img/img1.png used on input line 84.
 (pdftex.def)             Requested size: 397.48622pt x 103.09798pt.
 ) [15 <C:/Users/Sallar/Documents/Hochschule/Mathe I & II/Formelsammlung/src/img
 /img1.png>]
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\gebroche
-n.tex")
+n.tex"
+
+LaTeX Warning: The counter will not be printed.
+             The label is: $\bullet $ on input line 11.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: - on input line 16.
+
+
+Overfull \hbox (11.40552pt too wide) in paragraph at lines 31--31
+[] 
+ []
+
+[16
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 39--43
+
+ []
+
+) [17]
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\exp_log.
-tex")
+tex") [18
+
+
+]
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\trig_fkt
-.tex")
+.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+[19
+
+
+]) [20]
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\main.aux
 "
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\mengenle
@@ -441,13 +478,13 @@ aux")
 ("C:\Users\Sallar\Documents\Hochschule\Mathe I & II\Formelsammlung\src\trig_fkt
 .aux")) ) 
 Here is how much of TeX's memory you used:
- 4533 strings out of 494045
- 63975 string characters out of 3145966
- 133590 words of memory out of 3000000
- 7689 multiletter control sequences out of 15000+200000
- 23685 words of font info for 70 fonts, out of 3000000 for 9000
+ 4538 strings out of 494045
+ 64030 string characters out of 3145966
+ 135610 words of memory out of 3000000
+ 7692 multiletter control sequences out of 15000+200000
+ 25224 words of font info for 72 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 29i,14n,24p,518b,603s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,14n,28p,518b,583s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\ecrm0900.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
 jknappen\ec\dpi600\ecrm0600.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts
@@ -459,26 +496,28 @@ ar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:
 095.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
 pi600\ecbx1095.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
 nappen\ec\dpi600\ecbx1440.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\
-2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/sym
-bols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
-symbols/msbm10.pfb>
-Output written on main.pdf (15 pages, 294894 bytes).
+k\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Sallar\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\Sallar\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Sallar
+\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (20 pages, 341130 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
+ 569 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

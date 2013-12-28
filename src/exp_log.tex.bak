@@ -1,0 +1,4 @@
+\subsection{Exponential- und Logartihmusfunktion}
+\subsubsection{e-Funktion}
+Die Exponentialfunktion ist eine Abbildung $f: \mathbb{R} \rightarrow \mathbb{R}$ mit $f(x) = e^x = \exp{(x)} := \lim_{n\rightarrow \infty}(1+\frac{x}{n})^n , x\in \mathbb{R}$. Alternativ ist auch folgendes möglich: $e^x := \sum^{\infty}_{n=0} \frac{x^n}{n!}$.\\
+Für die 

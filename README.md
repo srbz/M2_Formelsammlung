@@ -15,4 +15,6 @@ ToDos
 - [x] Gebrochenrationale Funktionen
 - [x] Exponential- und Logarithmusfunktion
 - [x] Trigonometrische Funktionen
-- [ ] Folgen, Grenzwerte, Reihen
+- [x] Folgen, Grenzwerte, Reihen
+- [ ] Differentialrechnung
+- [ ] Integralrechnung

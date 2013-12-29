@@ -20,6 +20,10 @@
 \DeclarePairedDelimiter\norm{\lVert}{\rVert}
 
 \addto\captionsgerman{\renewcommand*{\abstractname}{Vorwort}}
+
+\newtheorem{env_definition}{Definition}[section]
+ \newcommand{\sgn}{\operatorname{sgn}}
+ 
 \begin{document}
 \maketitle
 \begin{abstract}
@@ -34,4 +38,5 @@ Diese Formelsammlung ist im Zuge der Veranstaltung 'Mathematik 2 - Analysis' des
 \include{gebrochen}
 \include{exp_log}
 \include{trig_fkt}
+\include{folgen_reihen_grenz}
 \end{document}
